@@ -100,9 +100,7 @@ The system ensures **accountability, safety, and compliance** throughout the med
 ## 🔗 Backend Repository
 
 👉 **LifeTag Backend (Flask APIs & Alert System):**  
-https://github.com/riyakansal04/LifeTag-Backend  
-
-*(Update link if backend repo name differs)*
+(https://github.com/riyakansal04/LifeTag-)  
 
 ---
 
