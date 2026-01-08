@@ -58,31 +58,97 @@ The system ensures **accountability, safety, and compliance** throughout the med
 - 📧 **Notifications:** Automated email alerts  
 
 ---
+## 📊 Results & Screenshots
 
-## 📊 Results
+### 🏠 Landing Page  
+Entry point of the LifeTag application.
 
-### 👤 Patient Registration & Landing Page
-![Patient Registration](results/patient_registration.png)
-
----
-
-### 🏪 Pharmacy Dashboard
-![Pharmacy Dashboard](results/pharmacy_dashboard.png)
+![Landing Page](Landingpage.jpg)
 
 ---
 
-### 🩺 Doctor Dashboard
-![Doctor Dashboard](results/doctor_dashboard.png)
+### 🧠 System Architecture  
+Overall architecture showing interaction between frontend, backend, and alert system.
+
+![System Architecture](systemarchitecture.png)
 
 ---
 
-### 📄 Prescription Details & Expiry Alerts
-![Prescription Details](results/prescription_details.png)
+### 🔁 Methodology / Workflow  
+Step-by-step workflow of the LifeTag system.
+
+![Methodology](Methodology.png)
 
 ---
 
-### 🚨 Alert Notifications (Patient / Chemist / Admin)
-![Email Alerts](results/email_alerts.png)
+### 👤 Patient Registration  
+Patient onboarding and registration interface.
+
+![Patient Registration](patientregistration.png)
+
+---
+
+### 🏡 Home Page  
+Main dashboard view for users after login.
+
+![Home Page](homepage.png)
+
+---
+
+### 👤 Profile Page & Update  
+User profile view and profile update functionality.
+
+![Profile Page](profilepage.png)  
+![Profile Update](profileupdate.jpg)
+
+---
+
+### 🩺 Doctor Dashboard  
+Doctor-side dashboards for prescription and patient management.
+
+![Doctor Dashboard 1](doctordashboard1.png)  
+![Doctor Dashboard 2](doctordashboard2.png)  
+![Doctor Dashboard 3](doctordashboard3.png)
+
+---
+
+### 🏪 Pharmacy Dashboard  
+Pharmacy-side dashboards for verification and medicine dispensing.
+
+![Pharmacy Dashboard 1](pharmacydashboard1.jpg)  
+![Pharmacy Dashboard 2](pahrmacydashboard2.jpg)  
+![Pharmacy Dashboard 3](pharmacydashboard3.jpg)
+
+---
+
+### 💊 Medicine Inventory  
+Inventory view showing batch, expiry, and stock details.
+
+![Medicine Inventory](medicineinventory.png)
+
+---
+
+### 📄 Prescription Details  
+Detailed prescription information linked with QR and expiry.
+
+![Prescription Details](prescriptiondetails.png)
+
+---
+
+### 🚨 Alerts for Expired Medicines  
+In-app alert view for expired or unsafe medicines.
+
+![Expired Medicine Alerts](alertsforexpiredmedicines.png)
+
+---
+
+### 📧 Alert Notifications (Email)  
+Automated email alerts sent to different stakeholders.
+
+![Alert to Patient](alerttopatient.png)  
+![Alert to Chemist](alerttochemist.png)  
+![Alert to Admin](alerttoadmin.png)
+
 
 ---
 
